@@ -9,5 +9,9 @@
 ![](https://streak-stats.demolab.com/?user=a00ae&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=a00ae&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🎓 Certificates
+
+* **CS50: Introduction to Computer Science** – Harvard University [🔗 View Certificate](https://cs50.harvard.edu/certificates/4b1810da-8786-48e1-ae35-ecf9e32b93bb)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
