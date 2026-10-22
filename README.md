@@ -11,7 +11,7 @@
 
 ### 🎓 Certificates
 
-* **CS50: Introduction to Computer Science** – Harvard University [🔗 View Certificate](https://cs50.harvard.edu/certificates/4b1810da-8786-48e1-ae35-ecf9e32b93bb)
+* **CS50: Computer Science** – Harvard University [🔗 View Certificate](https://cs50.harvard.edu/certificates/4b1810da-8786-48e1-ae35-ecf9e32b93bb)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
